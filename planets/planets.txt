@@ -1,0 +1,11 @@
+we have the following planets:
+mercury
+venus
+earth 
+mars
+jupiter
+saturn
+uranus
+neptune
+pluto
+
