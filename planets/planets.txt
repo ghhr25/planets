@@ -8,4 +8,5 @@ saturn
 uranus
 neptune
 pluto
-
+we also have the sedna which is a replacement for pluto because 
+pluto is not a planet anymore
